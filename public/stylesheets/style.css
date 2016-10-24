@@ -1,0 +1,35 @@
+/*Overriding Materialize Files with this file.
+Include it last when you load the CSS files.*/
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+	color: #e57373;
+}
+
+.nav-wrapper {
+	background-color: #4db6ac;
+}
+
+.nav-wrapper .a {
+	padding-left: 16px;
+}
+
+.btn, .btn:hover {
+	background-color: #e57373;
+}
+
+#banner {
+	background-color: #4db6ac;
+}
+
+#banner .container .row .col h2 {
+	color: white;
+	margin-bottom: 0px;
+}
+
+#banner .container .row .col h4 {
+	color: white;
+}
