@@ -25,11 +25,21 @@ Include it last when you load the CSS files.*/
 	background-color: #4db6ac;
 }
 
-#banner .container .row .col h2 {
+#banner .container .row .col .h1 {
 	color: white;
 	margin-bottom: 0px;
 }
 
-#banner .container .row .col h4 {
-	color: white;
+strong {
+	/*color: #4db6ac;*/
+	color: #009688;
+	font-weight: 400;
 }
+
+/*p {
+	font-size: 15px;
+}*/
+
+/*#banner .container .row .col h4 {
+	color: white;
+}*/
